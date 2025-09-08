@@ -25,3 +25,5 @@ A modern, responsive landing page for a fictional SaaS product built with **HTML
 
 ---
 <img width="1594" height="903" alt="image" src="https://github.com/user-attachments/assets/331273b5-97cd-43bd-a7ad-d7e57abf010b" />
+<img width="1589" height="907" alt="image" src="https://github.com/user-attachments/assets/7971a403-2dd3-4d34-b8b3-f7365834c75b" />
+<img width="1735" height="869" alt="image" src="https://github.com/user-attachments/assets/5cdd752d-0e2c-4839-b15d-a510a3136a58" />
